@@ -51,15 +51,13 @@
 			PBXWorkspaceStateSaveDate = 273732779;
 		};
 		perUserProjectItems = {
-			863C00AC104E5FD9009B43CD = 863C00AC104E5FD9009B43CD /* XDModelBookmark */;
-			863C00AD104E5FD9009B43CD = 863C00AD104E5FD9009B43CD /* XDModelBookmark */;
-			8644F7F9104CEB36007259BA = 8644F7F9104CEB36007259BA /* PBXTextBookmark */;
-			8644F80C104D93EA007259BA = 8644F80C104D93EA007259BA /* PBXTextBookmark */;
-			8644F80D104D93EA007259BA = 8644F80D104D93EA007259BA /* PBXTextBookmark */;
-			8644F80F104D93EA007259BA = 8644F80F104D93EA007259BA /* XDModelBookmark */;
-			8644F810104D93EA007259BA = 8644F810104D93EA007259BA /* XDModelBookmark */;
-			867AF6BB1050D4B60050C32A /* XDModelBookmark */ = 867AF6BB1050D4B60050C32A /* XDModelBookmark */;
-			867AF6BE1050D4B60050C32A /* XDModelBookmark */ = 867AF6BE1050D4B60050C32A /* XDModelBookmark */;
+			863C00AC104E5FD9009B43CD /* XDModelBookmark */ = 863C00AC104E5FD9009B43CD /* XDModelBookmark */;
+			863C00AD104E5FD9009B43CD /* XDModelBookmark */ = 863C00AD104E5FD9009B43CD /* XDModelBookmark */;
+			8644F7F9104CEB36007259BA /* PBXTextBookmark */ = 8644F7F9104CEB36007259BA /* PBXTextBookmark */;
+			8644F80C104D93EA007259BA /* PBXTextBookmark */ = 8644F80C104D93EA007259BA /* PBXTextBookmark */;
+			8644F80D104D93EA007259BA /* PBXTextBookmark */ = 8644F80D104D93EA007259BA /* PBXTextBookmark */;
+			867AF6E11050D7A40050C32A /* XDModelBookmark */ = 867AF6E11050D7A40050C32A /* XDModelBookmark */;
+			867AF6E21050D7A40050C32A /* XDModelBookmark */ = 867AF6E21050D7A40050C32A /* XDModelBookmark */;
 		};
 		sourceControlManager = 86AEA4AA104BAE81002AA525 /* Source Control */;
 		userBuildSettings = {
@@ -126,7 +124,7 @@
 						isCollapsed = yes;
 						sizes = (
 							"{{0, 0}, {983, 220}}",
-							"{{0, 225}, {983, 251}}",
+							"{{0, 225}, {983, 274}}",
 						);
 					};
 					tableSplitGeometry = {
@@ -233,7 +231,7 @@
 					);
 				};
 				"xdesign model browser state key - shown/hidden" = 1;
-				"xdesign model diagram view visible rect key" = "{{-160, 0}, {968, 236}}";
+				"xdesign model diagram view visible rect key" = "{{-160, 0}, {968, 259}}";
 			};
 			sepNavWindowFrame = "{{69, 151}, {983, 612}}";
 		};
@@ -292,17 +290,7 @@
 		vrLen = 626;
 		vrLoc = 0;
 	};
-	8644F80F104D93EA007259BA /* XDModelBookmark */ = {
-		isa = XDModelBookmark;
-		fRef = 770B37EC0679A11B001EADE2 /* Correspondance_DataModel.xcdatamodel */;
-		fallbackIsa = PBXBookmark;
-	};
-	8644F810104D93EA007259BA /* XDModelBookmark */ = {
-		isa = XDModelBookmark;
-		fRef = 770B37EC0679A11B001EADE2 /* Correspondance_DataModel.xcdatamodel */;
-		fallbackIsa = PBXBookmark;
-	};
-	867AF6BB1050D4B60050C32A /* XDModelBookmark */ = {
+	867AF6E11050D7A40050C32A /* XDModelBookmark */ = {
 		isa = XDModelBookmark;
 		fRef = 770B37EC0679A11B001EADE2 /* Correspondance_DataModel.xcdatamodel */;
 		fallbackIsa = PBXBookmark;
@@ -465,7 +453,7 @@
 			);
 		};
 	};
-	867AF6BE1050D4B60050C32A /* XDModelBookmark */ = {
+	867AF6E21050D7A40050C32A /* XDModelBookmark */ = {
 		isa = XDModelBookmark;
 		fRef = 770B37EC0679A11B001EADE2 /* Correspondance_DataModel.xcdatamodel */;
 		fallbackIsa = PBXBookmark;
@@ -514,7 +502,7 @@
 					isCollapsed = yes;
 					sizes = (
 						"{{0, 0}, {983, 220}}",
-						"{{0, 225}, {983, 251}}",
+						"{{0, 225}, {983, 274}}",
 					);
 				};
 				tableSplitGeometry = {
@@ -621,7 +609,7 @@
 				);
 			};
 			"xdesign model browser state key - shown/hidden" = 1;
-			"xdesign model diagram view visible rect key" = "{{-160, 0}, {968, 236}}";
+			"xdesign model diagram view visible rect key" = "{{-160, 0}, {968, 259}}";
 			"xdesign model selected entities key" = (
 			);
 			"xdesign model selected properties key" = (

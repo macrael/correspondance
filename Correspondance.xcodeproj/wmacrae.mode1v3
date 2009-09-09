@@ -216,10 +216,10 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>867AF6E21050D7A40050C32A</string>
+						<string>86B5C9CB105777F400134A77</string>
 						<key>history</key>
 						<array>
-							<string>863C00AD104E5FD9009B43CD</string>
+							<string>867AF6E21050D7A40050C32A</string>
 						</array>
 					</dict>
 					<key>SplitCount</key>
@@ -270,8 +270,6 @@
 			<key>Layout</key>
 			<array>
 				<dict>
-					<key>BecomeActive</key>
-					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -363,13 +361,13 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>867AF6E11050D7A40050C32A</string>
+										<string>86B5C9C8105777F400134A77</string>
 										<key>history</key>
 										<array>
 											<string>8644F7F9104CEB36007259BA</string>
 											<string>8644F80C104D93EA007259BA</string>
 											<string>8644F80D104D93EA007259BA</string>
-											<string>863C00AC104E5FD9009B43CD</string>
+											<string>867AF6E11050D7A40050C32A</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -391,6 +389,8 @@
 							<string>0pt</string>
 						</dict>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -427,9 +427,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>867AF6BC1050D4B60050C32A</string>
+				<string>86B5C9C9105777F400134A77</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>867AF6BD1050D4B60050C32A</string>
+				<string>86B5C9CA105777F400134A77</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -565,13 +565,9 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>867AF6C81050D4B60050C32A</string>
-		<string>867AF6C91050D4B60050C32A</string>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>8644F7FF104CEB36007259BA</string>
-		<string>/Users/wmacrae/code/Correspondance/Correspondance.xcodeproj</string>
 		<string>8641EEAB104BB01E00F0C0D0</string>
+		<string>/Users/wmacrae/code/Correspondance/Correspondance.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>414 151 894 666 0 0 1440 878 </string>
@@ -651,7 +647,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>8644F7FF104CEB36007259BA</string>
-				<string>867AF6BF1050D4B60050C32A</string>
+				<string>86B5C9CC105777F400134A77</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
